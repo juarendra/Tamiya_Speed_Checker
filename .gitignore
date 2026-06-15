@@ -17,3 +17,5 @@ Thumbs.db
 .idea/
 # secrets
 .env
+PCB-SCH/CAD-CAM/
+PCB-SCH/KICAD/
